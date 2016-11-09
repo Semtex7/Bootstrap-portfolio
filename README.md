@@ -1,12 +1,12 @@
 # Bootstrap_Portfolio
 
-Projekt wykona³em korzystaj¹c z gotowego szablonu bootstrapowego. Szablon jednak zosta³ odpowiednio zmieniony.
+Projekt wykona³em korzystajac z gotowego szablonu bootstrapowego. Szablon jednak zosta³ odpowiednio zmieniony.
 
 1. Dodanie innego t³a oraz czcionki w projekcie.
 
 2. Podpiêcie biblioteki do animacji w css
 
-3. Dodadnie innych efektów animacji w menu.
+3. Dodanie innych efektów animacji w menu.
 
 4. Dodanie sekcji skills wraz z w³asnymi ikonami oraz animacjami
 
